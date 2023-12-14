@@ -11,4 +11,4 @@
  📢查看[ 本页 ](https://yiranzhimo.github.io/Rss-Translation) 参考自[ rss-translate ](https://github.com/talengu/rss-translate)
 
 ## 已转换翻译源
- - source001 [https://www.economist.com/latest-updates](https://www.economist.com/latest-updates) -> [Economist](rss/Economist.xml)
+ - source001 [https://feedx.net/rss/economist.xml](https://feedx.net/rss/economist.xml) -> [Economist](rss/Economist.xml)
