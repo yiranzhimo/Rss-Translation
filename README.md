@@ -12,3 +12,4 @@
 
 ## 已转换翻译源
  - source001 [https://feedx.net/rss/economist.xml](https://feedx.net/rss/economist.xml) -> [Economist](rss/Economist.xml)
+ - source002 [https://rsshub.app/wsj/en-us](https://rsshub.app/wsj/en-us) -> [The Wall Street Journal](rss/The%20Wall%20Street%20Journal.xml)
