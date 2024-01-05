@@ -4,7 +4,14 @@
     <title>华尔街日报 - EN-US</title>
     <link>https://www.wsj.com</link>
     <description>WSJ - EN-US - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 04 Jan 2024 21:08:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jan 2024 00:42:45 GMT</lastBuildDate>
+    <item>
+      <title>健康保险公司投资数字化以促进药物邮寄交付</title>
+      <link>https://www.wsj.com/articles/health-insurers-invest-in-digital-to-boost-drug-by-mail-delivery-d8927a8b</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.wsj.com/articles/health-insurers-invest-in-digital-to-boost-drug-by-mail-delivery-d8927a8b</guid>
+      <pubDate>Thu, 04 Jan 2024 20:23:00 GMT</pubDate>
+    </item>
     <item>
       <title>仓库可用率飙升至大流行以来的最高水平</title>
       <link>https://www.wsj.com/articles/warehouse-availability-surges-to-highest-level-since-the-pandemic-bf1e0724</link>
@@ -32,6 +39,13 @@
       <description><![CDATA[]]></description>
       <guid>https://www.wsj.com/articles/pop-tarts-devoured-mascot-may-live-to-be-eaten-again-acda8820</guid>
       <pubDate>Thu, 04 Jan 2024 01:22:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊朗是中东暴力的支点</title>
+      <link>https://www.wsj.com/articles/iran-middle-east-violence-israel-hamas-houthis-qassem-soleimani-26605408</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.wsj.com/articles/iran-middle-east-violence-israel-hamas-houthis-qassem-soleimani-26605408</guid>
+      <pubDate>Wed, 03 Jan 2024 23:41:00 GMT</pubDate>
     </item>
     <item>
       <title>我们如何挤压哈佛大学以将克劳丁·盖伊赶走</title>
@@ -67,13 +81,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.wsj.com/articles/sustainable-energy-goals-require-public-investment-in-emerging-technologies-bcg-chair-says-97c07560</guid>
       <pubDate>Wed, 03 Jan 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>加州送给德克萨斯州的另一份礼物</title>
-      <link>https://www.wsj.com/articles/chevron-assets-writedown-california-regulation-0b0bdac0</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.wsj.com/articles/chevron-assets-writedown-california-regulation-0b0bdac0</guid>
-      <pubDate>Tue, 02 Jan 2024 23:37:00 GMT</pubDate>
     </item>
     <item>
       <title>美国检察官可根据新规定指控外国官员行贿</title>
@@ -118,17 +125,17 @@
       <pubDate>Sat, 30 Dec 2023 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>五张图表介绍 2023 年并购领域发生的情况以及未来的发展</title>
-      <link>https://www.wsj.com/articles/what-happened-in-m-a-in-2023-and-whats-ahead-in-five-charts-236b2dbf</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.wsj.com/articles/what-happened-in-m-a-in-2023-and-whats-ahead-in-five-charts-236b2dbf</guid>
-      <pubDate>Fri, 29 Dec 2023 12:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>2023 年公司如何使用生成式人工智能？以下是五位早期采用者的介绍。</title>
       <link>https://www.wsj.com/articles/how-did-companies-use-generative-ai-in-2023-heres-a-look-at-five-early-adopters-6e09c6b3</link>
       <description><![CDATA[]]></description>
       <guid>https://www.wsj.com/articles/how-did-companies-use-generative-ai-in-2023-heres-a-look-at-five-early-adopters-6e09c6b3</guid>
+      <pubDate>Fri, 29 Dec 2023 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>五张图表介绍 2023 年并购领域发生的情况以及未来的发展</title>
+      <link>https://www.wsj.com/articles/what-happened-in-m-a-in-2023-and-whats-ahead-in-five-charts-236b2dbf</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.wsj.com/articles/what-happened-in-m-a-in-2023-and-whats-ahead-in-five-charts-236b2dbf</guid>
       <pubDate>Fri, 29 Dec 2023 12:00:00 GMT</pubDate>
     </item>
     <item>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.wsj.com/articles/low-battery-metal-prices-set-to-persist-in-2024-adding-friction-to-energy-transition-3773ba00</guid>
       <pubDate>Thu, 28 Dec 2023 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>面对 2024 年预算紧张，首席信息官们为技术投资寻求回旋余地</title>
-      <link>https://www.wsj.com/articles/facing-tight-budgets-in-2024-cios-seek-wiggle-room-for-tech-investments-81c113c1</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.wsj.com/articles/facing-tight-budgets-in-2024-cios-seek-wiggle-room-for-tech-investments-81c113c1</guid>
-      <pubDate>Wed, 27 Dec 2023 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
