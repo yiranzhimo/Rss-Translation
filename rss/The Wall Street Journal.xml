@@ -4,7 +4,14 @@
     <title>华尔街日报 - EN-US</title>
     <link>https://www.wsj.com</link>
     <description>WSJ - EN-US - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 10 Jan 2024 06:12:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 09:09:43 GMT</lastBuildDate>
+    <item>
+      <title>加州财富税到来</title>
+      <link>https://www.wsj.com/articles/california-wealth-tax-bill-sacramento-democrats-gavin-newsom-f0c723b6</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.wsj.com/articles/california-wealth-tax-bill-sacramento-democrats-gavin-newsom-f0c723b6</guid>
+      <pubDate>Tue, 09 Jan 2024 23:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>2023 年美国遭遇破纪录的雷暴灾害</title>
       <link>https://www.wsj.com/articles/u-s-saw-record-breaking-thunderstorm-damage-in-2023-e42fa775</link>
@@ -53,13 +60,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.wsj.com/articles/mike-johnson-spending-deal-house-republicans-president-biden-6433da13</guid>
       <pubDate>Mon, 08 Jan 2024 23:25:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃隆·马斯克 vs. 行政国家</title>
-      <link>https://www.wsj.com/articles/spacex-lawsuit-national-labor-relations-board-elon-musk-5b434f10</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.wsj.com/articles/spacex-lawsuit-national-labor-relations-board-elon-musk-5b434f10</guid>
-      <pubDate>Mon, 08 Jan 2024 23:16:00 GMT</pubDate>
     </item>
     <item>
       <title>盖伊的下台可能是一场代价高昂的胜利</title>
@@ -139,11 +139,11 @@
       <pubDate>Wed, 03 Jan 2024 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>当首席财务官为不可预测的 2024 年做准备时，以下是他们的首要清单</title>
-      <link>https://www.wsj.com/articles/as-cfos-prepare-for-an-unpredictable-2024-heres-what-tops-their-checklists-546db27e</link>
+      <title>美国检察官可根据新规定指控外国官员行贿</title>
+      <link>https://www.wsj.com/articles/u-s-prosecutors-can-charge-foreign-officials-with-bribery-under-new-provision-ec3a4dfc</link>
       <description><![CDATA[]]></description>
-      <guid>https://www.wsj.com/articles/as-cfos-prepare-for-an-unpredictable-2024-heres-what-tops-their-checklists-546db27e</guid>
-      <pubDate>Tue, 02 Jan 2024 10:30:00 GMT</pubDate>
+      <guid>https://www.wsj.com/articles/u-s-prosecutors-can-charge-foreign-officials-with-bribery-under-new-provision-ec3a4dfc</guid>
+      <pubDate>Tue, 02 Jan 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
