@@ -4,7 +4,7 @@
     <title>华尔街日报 - EN-US</title>
     <link>https://www.wsj.com</link>
     <description>WSJ - EN-US - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 12 Jan 2024 15:09:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2024 21:08:31 GMT</lastBuildDate>
     <item>
       <title>石墨烯研究显示其在芯片中的应用新潜力</title>
       <link>https://www.wsj.com/articles/research-in-graphene-shows-new-potential-for-its-use-in-chips-5b2794a4</link>
@@ -39,6 +39,20 @@
       <description><![CDATA[]]></description>
       <guid>https://www.wsj.com/articles/anthony-fauci-covid-social-distancing-six-feet-rule-house-subcommittee-hearing-44289850</guid>
       <pubDate>Thu, 11 Jan 2024 23:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>校园新的隔离</title>
+      <link>https://www.wsj.com/articles/ucla-school-of-medicine-antiracism-course-do-no-harm-office-of-civil-rights-8143c3ae</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.wsj.com/articles/ucla-school-of-medicine-antiracism-course-do-no-harm-office-of-civil-rights-8143c3ae</guid>
+      <pubDate>Thu, 11 Jan 2024 23:32:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普与非绿诺企业</title>
+      <link>https://www.wsj.com/articles/trump-vs-the-non-rinos-haley-and-desantis-are-rightwing-fighters-a836de23</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.wsj.com/articles/trump-vs-the-non-rinos-haley-and-desantis-are-rightwing-fighters-a836de23</guid>
+      <pubDate>Thu, 11 Jan 2024 23:26:00 GMT</pubDate>
     </item>
     <item>
       <title>曼哈顿美国检察官启动计划鼓励更多自我披露</title>
@@ -76,25 +90,11 @@
       <pubDate>Thu, 11 Jan 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>克里斯蒂为共和党做的好事</title>
-      <link>https://www.wsj.com/articles/chris-christie-drops-out-gop-2024-nikki-haley-ron-desantis-donald-trump-574a91ca</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.wsj.com/articles/chris-christie-drops-out-gop-2024-nikki-haley-ron-desantis-donald-trump-574a91ca</guid>
-      <pubDate>Wed, 10 Jan 2024 23:44:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Calvin Klein 性感广告被英国监管机构禁止</title>
       <link>https://www.wsj.com/articles/sensual-calvin-klein-ad-banned-by-regulators-in-the-u-k-d45202c2</link>
       <description><![CDATA[]]></description>
       <guid>https://www.wsj.com/articles/sensual-calvin-klein-ad-banned-by-regulators-in-the-u-k-d45202c2</guid>
       <pubDate>Wed, 10 Jan 2024 23:22:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普会“摧毁”民主吗？</title>
-      <link>https://www.wsj.com/articles/will-trump-destroy-democracy-biden-valley-forge-strong-institutions-bbe67588</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.wsj.com/articles/will-trump-destroy-democracy-biden-valley-forge-strong-institutions-bbe67588</guid>
-      <pubDate>Wed, 10 Jan 2024 22:52:00 GMT</pubDate>
     </item>
     <item>
       <title>SAP 将支付超过 2.2 亿美元以结束贿赂调查</title>
@@ -132,18 +132,18 @@
       <pubDate>Wed, 10 Jan 2024 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>2023 年美国遭遇破纪录的雷暴灾害</title>
-      <link>https://www.wsj.com/articles/u-s-saw-record-breaking-thunderstorm-damage-in-2023-e42fa775</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.wsj.com/articles/u-s-saw-record-breaking-thunderstorm-damage-in-2023-e42fa775</guid>
-      <pubDate>Tue, 09 Jan 2024 22:08:00 GMT</pubDate>
-    </item>
-    <item>
       <title>埃森哲收购 Marketing and Tech Agency Work & Co.</title>
       <link>https://www.wsj.com/articles/accenture-acquires-marketing-and-tech-agency-work-co-d5828fe0</link>
       <description><![CDATA[]]></description>
       <guid>https://www.wsj.com/articles/accenture-acquires-marketing-and-tech-agency-work-co-d5828fe0</guid>
       <pubDate>Tue, 09 Jan 2024 16:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SandboxAQ 收购 Good Chemistry，融合人工智能和量子技术用于药物发现</title>
+      <link>https://www.wsj.com/articles/sandboxaq-buys-good-chemistry-melding-ai-and-quantum-tech-for-drug-discovery-427cf816</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.wsj.com/articles/sandboxaq-buys-good-chemistry-melding-ai-and-quantum-tech-for-drug-discovery-427cf816</guid>
+      <pubDate>Tue, 09 Jan 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
