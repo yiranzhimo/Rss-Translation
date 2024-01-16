@@ -4,7 +4,21 @@
     <title>华尔街日报 - EN-US</title>
     <link>https://www.wsj.com</link>
     <description>WSJ - EN-US - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 16 Jan 2024 12:17:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2024 15:09:51 GMT</lastBuildDate>
+    <item>
+      <title>加州长期陷入困境的港口正在赢回进口</title>
+      <link>https://www.wsj.com/articles/californias-long-embattled-ports-are-winning-back-imports-b21c9997</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.wsj.com/articles/californias-long-embattled-ports-are-winning-back-imports-b21c9997</guid>
+      <pubDate>Tue, 16 Jan 2024 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>爱荷华州为特朗普二世提供支持</title>
+      <link>https://www.wsj.com/articles/iowa-caucuses-donald-trump-republicans-nikki-haley-ron-desantis-e4854e5e</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.wsj.com/articles/iowa-caucuses-donald-trump-republicans-nikki-haley-ron-desantis-e4854e5e</guid>
+      <pubDate>Tue, 16 Jan 2024 04:41:00 GMT</pubDate>
+    </item>
     <item>
       <title>巴勒斯坦“为杀戮付费”不断增长</title>
       <link>https://www.wsj.com/articles/palestinian-pay-for-slay-hamas-oct-7-israel-gaza-antony-blinken-ramallah-2dce9a22</link>
@@ -39,13 +53,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.wsj.com/articles/crypto-firm-genesis-global-trading-to-pay-8-million-for-compliance-failings-0ce7f113</guid>
       <pubDate>Fri, 12 Jan 2024 21:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么华盛顿特区不再有人出去吃饭</title>
-      <link>https://www.wsj.com/articles/why-no-one-goes-out-to-eat-in-d-c-anymore-fd01e31e</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.wsj.com/articles/why-no-one-goes-out-to-eat-in-d-c-anymore-fd01e31e</guid>
-      <pubDate>Fri, 12 Jan 2024 20:28:00 GMT</pubDate>
     </item>
     <item>
       <title>石墨烯研究显示其在芯片中的应用新潜力</title>
@@ -104,13 +111,6 @@
       <pubDate>Wed, 10 Jan 2024 23:22:00 GMT</pubDate>
     </item>
     <item>
-      <title>SAP 将支付超过 2.2 亿美元以结束贿赂调查</title>
-      <link>https://www.wsj.com/articles/sap-to-pay-98-million-to-sec-to-settle-bribery-charges-f1f7cc82</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.wsj.com/articles/sap-to-pay-98-million-to-sec-to-settle-bribery-charges-f1f7cc82</guid>
-      <pubDate>Wed, 10 Jan 2024 19:06:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Equinix 筹集海外债务以削减利息成本</title>
       <link>https://www.wsj.com/articles/equinix-raises-debt-abroad-to-clip-interest-costs-d6e4646c</link>
       <description><![CDATA[]]></description>
@@ -132,18 +132,18 @@
       <pubDate>Wed, 10 Jan 2024 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>进口商面临运输成本飙升和红海改道堆积造成的延误</title>
-      <link>https://www.wsj.com/articles/importers-face-surging-shipping-costs-delays-as-red-sea-diversions-pile-up-7638ed64</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.wsj.com/articles/importers-face-surging-shipping-costs-delays-as-red-sea-diversions-pile-up-7638ed64</guid>
-      <pubDate>Wed, 10 Jan 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>埃森哲收购 Marketing and Tech Agency Work & Co.</title>
       <link>https://www.wsj.com/articles/accenture-acquires-marketing-and-tech-agency-work-co-d5828fe0</link>
       <description><![CDATA[]]></description>
       <guid>https://www.wsj.com/articles/accenture-acquires-marketing-and-tech-agency-work-co-d5828fe0</guid>
       <pubDate>Tue, 09 Jan 2024 16:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SandboxAQ 收购 Good Chemistry，融合人工智能和量子技术用于药物发现</title>
+      <link>https://www.wsj.com/articles/sandboxaq-buys-good-chemistry-melding-ai-and-quantum-tech-for-drug-discovery-427cf816</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.wsj.com/articles/sandboxaq-buys-good-chemistry-melding-ai-and-quantum-tech-for-drug-discovery-427cf816</guid>
+      <pubDate>Tue, 09 Jan 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
